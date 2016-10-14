@@ -1,0 +1,40 @@
+"Bill of Material for "
+"On 24-07-2014 at 16:19:00"
+
+"Comment","Pattern","Quantity","Components"
+
+"<b>Arduino Diecimila/Duemilanove</b>
+<p>
+Make a shield with ease, this package has all the named pins as well as the two mounting drill holes and an outline of the USB and DC power connector. The outline is on the DIMENSION layer, so if your board house uses it they will cut the outline to match.
+<p>
+http://www.ladyada.net/library/pcb/eaglelibrary.html","ARDUINO","1","Arduino Uno Template",""
+"<b>Pin header 1x1 for 0.1" spacing</b>
+<p>
+With round pins","1X01","15","JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP11, JP12, JP13, JP14, JP15, JP17",""
+"<B>POLARIZED CAPACITOR</B>, American symbol","153CLV-0605","1","C24",""
+"0.01uF","J1-0603","1","C9","Capacitor (Semiconductor SIM Model)"
+"0.1nF","J1-0603","1","C18","Capacitor (Semiconductor SIM Model)"
+"0.1uF","J1-0603","7","C6, C8, C26, C32, C34, C43, C45","Capacitor (Semiconductor SIM Model)"
+"1.5nF","J1-0603","1","C19","Capacitor (Semiconductor SIM Model)"
+"10K","J1-0603","7","R2, R3, R5, R6, R7, R8, R9","Resistor"
+"10nF","J1-0603","1","C20","Capacitor (Semiconductor SIM Model)"
+"10pF","J1-0603","1","C21","Capacitor (Semiconductor SIM Model)"
+"10uF","J1-0603","8","C2, C4, C5, C7, C10, C12, C13, C22","Capacitor (Semiconductor SIM Model)"
+"17K","J1-0603","1","R1","Resistor"
+"1M","J1-0603","1","R4","Resistor"
+"1uF","J1-0603","6","C23, C25, C31, C33, C42, C44","Capacitor (Semiconductor SIM Model)"
+"2.2uF","J1-0603","6","C1, C11, C14, C15, C16, C17","Capacitor (Semiconductor SIM Model)"
+"4.7nF","J1-0603","11","C27, C28, C29, C30, C35, C36, C37, C38, C39, C40, C41","Capacitor (Semiconductor SIM Model)"
+"5K","J1-0603","11","R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20","Resistor"
+"ADS1299","PAG64_M","1","U8","ADS1299, Low-Noise, 8-Channel, 24-bit analog Front-End for Biopotential Measurements"
+"ADUM6010ARSZ","SOL-20_M","1","U1","Digital Isolators 3.75kV RMS Intg DC/DC Converter"
+"B72590D50H260","CD1005-0402","11","ESD_S1, ESD_S2, ESD_S3, ESD_S4, ESD_S5, ESD_S6, ESD_S7, ESD_S8, ESD_S9, ESD_S10, ESD_S11","ESD Suppressors 0402 90Vdc 0.6pF CerDiod CDS2C05HDMI2"
+"DAISY_BUS","1X09-BIG","1","JP10",""
+"Diode","J1-0603","22","D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22","Default Diode"
+"ELECTRODES","1X14-CB","1","JP16",""
+"LM2664M6","SOT26A-6M","1","U2","LM2664M6Voltage Regulators - Switching Regulators SWITCHED CAPACITOR VLTG CONVERTER"
+"NC7WZ17P6","SOT26A-6AM","1","U7","Buffers & Line Drivers UHS Dual Buffer w/Schmitt Trigger"
+"NCP699SN25T1G","SOT23-5AM","2","U5, U6","LDO Voltage Regulators CMOS LDO 150mA 2.5V"
+"SG-615P 2.0480MC0","SOJ508P920X470-4M","1","OSC1","Standard Clock Oscillators 2.048MHz 5.0Volts 100ppm -20C +70C"
+"Si8462BB-B-IS1","SOIC127P600-16M","1","U4","Digital Isolators 6 Ch 2.5kV Isolator 150M 6/2"
+"TPS72325DBVT","SOT23-5AM","1","U3","LDO Voltage Regulators 200mA Low Noise High-PSRR"
